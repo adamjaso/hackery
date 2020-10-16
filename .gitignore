@@ -1,0 +1,6 @@
+__pycache__/
+*.log
+*.swp
+privatekey
+seed.txt
+peers.txt
